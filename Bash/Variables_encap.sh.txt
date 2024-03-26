@@ -1,0 +1,4 @@
+#!/bin/bash
+
+Myletter=ABC
+echo "The first 10 letters in the alphabet are: ${Myletter}DEFGHI"

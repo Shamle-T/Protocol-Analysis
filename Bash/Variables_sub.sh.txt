@@ -1,0 +1,7 @@
+#!/bin/bash
+
+filelist=`ls`
+echo $filelist
+FileWithTimeStamp=~/Downloads/Bash_Scripting_Tutorials/timestamp_$(/bin/date +%Y-%m-%d).txt
+echo $FileWithTimeStamp
+touch "$FileWithTimeStamp"

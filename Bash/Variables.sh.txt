@@ -1,0 +1,4 @@
+#!/bin/bash
+
+Price_per_apple=5
+echo "The price of an apple today is: \$HK $Price_per_apple"

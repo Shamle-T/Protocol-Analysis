@@ -1,0 +1,12 @@
+#!/bin/bash
+
+case ${1,,} in
+	shane | admin)
+		echo "Hello you are the boss here"
+		;;
+	help)
+		echo "Just enter your username"
+		;;
+	*)
+		echo "hello there you are not the boss of me"
+esac
