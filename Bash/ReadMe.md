@@ -1,1 +1,1 @@
-Following are the Bash codes 
+Following are a daily dose of Bash codes 
